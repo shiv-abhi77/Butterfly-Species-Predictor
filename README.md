@@ -57,7 +57,7 @@ To deploy this project run
     python3 main.py
 ```
 
-Go to address 127.0.0.1:5000 to see the website
+Go to address 127.0.0.1:5000 to see the website.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/94366989/210766014-ef50b168-c32a-45af-988d-a0c1c5bbdcfa.png)
