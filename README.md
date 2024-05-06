@@ -85,15 +85,3 @@ Tensorflow , Numpy , Pandas
 
 ## Dataset
 https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
- 
- 
-
-
-
-
-
-
-## Made by
-
-- Backend and ML by [@Atharva-Shetty](https://www.github.com/Atharva-Shetty)
-- Front-End by [@Shivansh-Nagar](https://github.com/shiv-abhi77)
